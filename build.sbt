@@ -32,5 +32,5 @@ docker / dockerfile := {
 
 docker / imageNames := Seq(
   // Sets the latest tag
-  ImageName("args-print-scopt")
+  ImageName("args-print-scopt-2.1")
 )
